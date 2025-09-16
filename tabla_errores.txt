@@ -1,0 +1,4 @@
+| No. | Descripción | Ambito | Linea | Columna |
+|-----|-------------|--------|-------|---------|
+| 1 | Variable no declarada | Global | 0 | 0 |
+| 2 | Variable no declarada | Global | 0 | 0 |
