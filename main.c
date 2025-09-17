@@ -129,7 +129,7 @@ void on_load_clicked(GtkWidget *widget, gpointer data) {
     gtk_widget_destroy(dialog);
 }
 
-// ✅ Callback para botón "Guardar"
+// Callback para botón "Guardar"
 void on_save_clicked(GtkWidget *widget, gpointer data) {
     GtkWidget *dialog = gtk_file_chooser_dialog_new(
         "Guardar archivo", GTK_WINDOW(data),
